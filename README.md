@@ -2,8 +2,8 @@
 
 [![](https://github.com/vincenzomadaghiele/A-Stubborn-Illusion/blob/main/imgs/ASI1.png)](https://youtu.be/18ZZnCtfuSA?t=3432 "A stubborn illusion [live May 12th 2022 | Suur Saal (EMTA), Tallinn, Estonia] - Andrea Pagliara, Elisa Lombardo & Vincenzo Madaghiele")
 
-##### Authors: Andrea Pagliara, Elisa Lombardo & Vincenzo Madaghiele 
-##### Audiovisual piece for flute, live electronics and generative visuals
+#### Authors: Andrea Pagliara, Elisa Lombardo & Vincenzo Madaghiele 
+#### Audiovisual piece for flute, live electronics and generative visuals
 
 
 ### Work description
@@ -17,5 +17,5 @@ The sound elements of acoustic instruments in rhythmic counterpoint are manipula
 - COMMUTE #4 festival - April 20th 2022 | Kino Soprus Cinema, Tallinn, Estonia
 - LPM Live Performers Meeting Edition XXIII - June 9th - 12th 2022 | Nuovo Cinema Aquila, Roma, Italy
 
-### Acknowledgments
+#### Acknowledgments
 The particle system implementation in Max MSP is based on the excellent [tutorials on particle systems](https://www.youtube.com/watch?v=jm34IcOOB40&list=PLRc5WfOZXC4kLfuYI5_xtb6-xBF78Z4fv&index=15) by Federico Foderaro - Amazing Max Stuff
