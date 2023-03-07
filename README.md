@@ -8,9 +8,10 @@
 
 ### Work description
 
-This audiovisual work deals with the concept of non-linearity of time and Entropy. It tries to escape from our usual way of thinking about time as something unidirectional. Time flow is not only relative in the theoretical physics, it is in our psychological perception as well.
-
-The sound elements of acoustic instruments in rhythmic counterpoint are manipulated through electroacoustics processes, to achieve a sense of disorder and discrepancy in the system. The same behaviour is reflected in the graphical side of the work, in which increasing distortions and disturbances influence the movements of a particle system. 
+The work unfolds as a dialogue between the acoustic musical material and a computational visual system, metaphorical actors of this work. 
+The audiovisual elements of the piece navigate and explore the potential of a system that emerges from the relationship between audio and video, unveiling its acoustic-digital life, its points of fracture and growth. 
+The electro-acoustic sonic components develop on a rhythmic counterpoint, evolving in discrepancy and disorder throughout the piece. Acoustic sounds flow through the digital simulation, distorting shapes towards the tipping points of their equilibrium. 
+The single elements are independent, yet entangled. Macro forms arise from their relationships, and complex behaviours that are bigger than the sum of its parts. The acoustic - human - dialogues with the digital - non-human - exploring tensions and beauty of this human-system relationship.
 
 ### The work was performed in two alternative versions at: 
 - Video Formes 2023 - March 17th - 31st 2023 | Clermont-Ferrand, France
